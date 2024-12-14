@@ -1,8 +1,8 @@
 const mineflayer = require("mineflayer");
 
 var settings = {
-    username: "TestMachine",
-    host: "localhost",
+    username: "Bocik",
+    host: "xBluzGaming.feathermc.gg",
 };
 
 const bot = mineflayer.createBot(settings);
